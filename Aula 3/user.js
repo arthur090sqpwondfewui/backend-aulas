@@ -9,4 +9,4 @@ class User {
         this.cpf = cpf
     }
 }
-module.exports = User //vai exportar o user 
+module.exports = User 
